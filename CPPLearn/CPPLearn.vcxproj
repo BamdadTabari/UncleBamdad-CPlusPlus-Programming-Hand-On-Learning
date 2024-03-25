@@ -131,7 +131,11 @@
     <ClCompile Include="CPPLearn.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\..\..\C++Programming-Hand-On-Learning\Book\CPlusPlus.Primer.Plus.6th.Edition(GVIP Uncle Bamdad).pdf" />
     <None Include="..\..\..\C++Programming-Hand-On-Learning\README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\C++Programming-Hand-On-Learning\Book\pageKeeper.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

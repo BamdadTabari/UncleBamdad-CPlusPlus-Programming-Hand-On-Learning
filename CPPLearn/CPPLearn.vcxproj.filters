@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Book">
+      <UniqueIdentifier>{78815016-c435-4930-b5cd-f196802dbf38}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CPPLearn.cpp">
@@ -24,5 +27,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\C++Programming-Hand-On-Learning\README.md" />
+    <None Include="..\..\..\C++Programming-Hand-On-Learning\Book\CPlusPlus.Primer.Plus.6th.Edition(GVIP Uncle Bamdad).pdf">
+      <Filter>Book</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\C++Programming-Hand-On-Learning\Book\pageKeeper.txt">
+      <Filter>Book</Filter>
+    </Text>
   </ItemGroup>
 </Project>
