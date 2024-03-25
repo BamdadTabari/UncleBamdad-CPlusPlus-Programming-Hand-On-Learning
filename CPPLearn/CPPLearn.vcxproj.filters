@@ -24,6 +24,9 @@
     <ClCompile Include="1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\C++Programming-Hand-On-Learning\README.md" />
