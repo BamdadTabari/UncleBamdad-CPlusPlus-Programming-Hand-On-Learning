@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="1.cpp" />
     <ClCompile Include="2.cpp" />
+    <ClCompile Include="3.cpp" />
+    <ClCompile Include="4.cpp" />
     <ClCompile Include="CPPLearn.cpp" />
   </ItemGroup>
   <ItemGroup>
