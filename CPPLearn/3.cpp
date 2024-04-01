@@ -8,3 +8,14 @@ int main() // function header
     return 0;                                // terminate main()
 }                                            // end of function body
 
+
+//NOTES:
+// Comments, indicated by the // prefix
+// A preprocessor #include directive
+// A function header : int main()
+// A using namespace directive
+// A function body, delimited by {
+//    and
+//}
+// Statements that uses the C++ cout facility to display a message
+// A return statement to terminate the main() function
