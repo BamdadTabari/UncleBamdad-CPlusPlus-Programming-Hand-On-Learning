@@ -41,8 +41,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\C++Programming-Hand-On-Learning\Book\pageKeeper.txt">
-      <Filter>Book</Filter>
+    <Text Include="C:\Users\illegible\Desktop\1_Notes.txt">
+      <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
 </Project>
