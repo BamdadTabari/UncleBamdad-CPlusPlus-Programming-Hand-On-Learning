@@ -1,1 +1,10 @@
 Statements and Semicolons
+
+A statement represents an action to be taken. To understand your source code, a compiler
+needs to know when one statement ends and another begins. Some languages use a statement separator. FORTRAN, for example, uses the end of the line to separate one statement
+from the next. Pascal uses a semicolon to separate one statement from the next. In Pascal
+you can omit the semicolon in certain cases, such as after a statement just before an END,
+when you aren’t actually separating two statements. (Pragmatists and minimalists will disagree about whether can implies should.) But C++, like C, uses a semicolon as a terminator
+rather than as a separator. The difference is that a semicolon acting as a terminator is part
+of the statement rather than a marker between statements. The practical upshot is that in
+C++ you should never omit the semicolon.
