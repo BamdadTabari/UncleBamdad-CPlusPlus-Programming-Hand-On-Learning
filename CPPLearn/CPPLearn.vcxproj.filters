@@ -44,5 +44,6 @@
     <Text Include="C:\Users\illegible\Desktop\1_Notes.txt">
       <Filter>Source Files</Filter>
     </Text>
+    <Text Include="2_Notes.txt" />
   </ItemGroup>
 </Project>

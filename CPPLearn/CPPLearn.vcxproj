@@ -138,6 +138,7 @@
     <None Include="..\..\..\C++Programming-Hand-On-Learning\README.md" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="2_Notes.txt" />
     <Text Include="C:\Users\illegible\Desktop\1_Notes.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
